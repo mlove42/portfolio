@@ -1,7 +1,7 @@
 {
     "name": "michael-personal-portfolio",
     "version": "0.1.0",
-    "homepage": "https://mlove42.github.io/portfolio",
+    "homepage": "https://mlove42.github.io",
     "private": true,
     "dependencies": {
         "@emailjs/browser": "^3.7.0",

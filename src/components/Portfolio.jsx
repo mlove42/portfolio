@@ -35,10 +35,10 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
             //     instagram: "http://www.instagram.com/",
             //     mail: "mailto:example@gmail.com",
             // },
-            thumbImage: "images/projects/project-1.jpg",
+            thumbImage: "images/projects/cap-3.png",
             sliderImages: [
-                "images/projects/project-1.jpg",
-                "images/projects/project-5.jpg",
+                "images/projects/cap-main.png",
+                "images/projects/cap-4.png",
             ],
             categories: [filters.FULLSTACK],
         },
